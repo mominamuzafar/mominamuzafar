@@ -17,9 +17,9 @@ https://huggingface.co/datasets/Momina-Muzafar/urdu-english-llm-evaluation
 ## Web Development Projects
 
 - **Zenith Digital Labs** | Digital agency site built from scratch | [Case Study](https://github.com/mominamuzafar/zenith-digitallabs-case-study)
-- **Inkspire Ghostwriters** | Content agency website
+- **Inkspire Ghostwriters** | Content agency website | [Case Study](https://github.com/mominamuzafar/inkspireghostwriters-case-study)
 - **AM2EX E-commerce** | WooCommerce store | [Case Study](https://github.com/mominamuzafar/am2ex-case-study)
-- **Oberonex E-Learning** | E-learning platform with course modules and training
+- **Oberonex E-Learning** | E-learning platform with course modules and training | [Case Study](https://github.com/mominamuzafar/oberonex-elearning-case-study)
 - **Oberonex** | Corporate site for IT solutions, consulting, and web development | [Case Study](https://github.com/mominamuzafar/oberonex-case-study)
 
 ## Skills
